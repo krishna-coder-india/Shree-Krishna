@@ -1,0 +1,6 @@
+{
+  "name": "श्रीमद्भागवत कथा सप्ताह परायण",
+  "description": "श्रीमद्भागवत महापुराण का सम्पूर्ण 7 दिवसीय सप्ताह परायण, श्रीकृष्ण लीलाएं, संस्कृत श्लोक, आरती एवं ऑडियो कथा श्रवण",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
